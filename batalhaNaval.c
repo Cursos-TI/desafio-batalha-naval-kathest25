@@ -7,15 +7,15 @@ int main() {
     int tabuleiro[10][10];
     int i, j;
 
-    // Inicialização do tabuleiro
+    // Tabuleiro é inicializado
     for (i = 0; i < 10; i++)
         for (j = 0; j < 10; j++)
             tabuleiro[i][j] = 0;
 
-    int navioHorizontal[3] = {3, 3, 3};
-    int navioVertical[3] = {3, 3, 3};
-    int navioDiagonal1[3] = {3, 3, 3};
-    int navioDiagonal2[3] = {3, 3, 3};
+    int naviohorizontal[3] = {3, 3, 3};
+    int naviovertical[3] = {3, 3, 3};
+    int naviodiagonal1[3] = {3, 3, 3};
+    int naviodiagonal2[3] = {3, 3, 3};
 
     int linhaH = 8, colunaH = 3;
     int linhaV = 1, colunaV = 2;
