@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Desafio Batalha Naval - MateCheck
-// Consiferando tabuleiro para uma matriz 10x10. E quatro navios, incluindo dois na diagonal.
+// Consiferando um tabuleiro para uma matriz 10x10. E quatro navios, incluindo dois na diagonal.
 
 int main() {
     int tabuleiro[10][10];
