@@ -18,7 +18,7 @@ int main() {
     int naviodiagonal2[3] = {3, 3, 3};
 
     int linhaH = 8, colunaH = 3;
-    int linhaV = 1, colunaV = 2;
+    int linhaV = 6, colunaV = 7;
     int linhaD1 = 0, colunaD1 = 0;       // Diagonal 1
     int linhaD2 = 0, colunaD2 = 9;       // Diagonal 2
 
